@@ -15,3 +15,5 @@ type Animal = {
 };
 
 //////// You can copy and past some of the examples in here
+let a:number = 100;
+a = 123123
