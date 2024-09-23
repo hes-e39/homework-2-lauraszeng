@@ -5,7 +5,7 @@
   "scripts": {
     "homework": "nodemon --exec 'ts-node src/homework.ts'",
     "homework:test": "nodemon --exec 'jest'",
-    "lecture": "nodemon --exec 'ts-node src/lecture.ts'"
+    "lecture": "nodemon --exec npx ts-node src/lecture.ts"
   },
   "keywords": [],
   "author": "",
